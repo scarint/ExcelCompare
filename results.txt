@@ -1,0 +1,12 @@
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_2_A-1a.xlsx; Sheet Summary; Row 2; Col 3; -; 43111.49607638889; !=; 43109.38984953704
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_2_A-1a.xlsx; Sheet Summary; Row 2; Col 4; -; 43111.53778935185; !=; 43109.43136574074
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_2_A-1a.xlsx; Sheet Summary; Row 2; Col 5; -; 60.06666666828096; !=; 59.78333333181217
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_2_A-2a.xlsx; Sheet Summary; Row 2; Col 3; -; 43111.515439814815; !=; 43109.40453703704
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_2_A-2a.xlsx; Sheet Summary; Row 2; Col 4; -; 43111.57681712963; !=; 43109.45982638889
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_2_A-2a.xlsx; Sheet Summary; Row 2; Col 5; -; 88.38333333237097; !=; 79.61666666995734
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_1_A-1a.xlsx; Sheet Summary; Row 2; Col 3; -; 43111.45416666667; !=; 43109.348287037035
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_1_A-1a.xlsx; Sheet Summary; Row 2; Col 4; -; 43111.49579861111; !=; 43109.38961805555
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_1_A-1a.xlsx; Sheet Summary; Row 2; Col 5; -; 59.94999999552965; !=; 59.516666665207595
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_1_A-2a.xlsx; Sheet Summary; Row 2; Col 3; -; 43111.45416666667; !=; 43109.34832175926
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_1_A-2a.xlsx; Sheet Summary; Row 2; Col 4; -; 43111.515185185184; !=; 43109.40377314815
+.\compareFiles\OR_LAWVIT_Output_MRR-58045_Adjusted_1_1_A-2a.xlsx; Sheet Summary; Row 2; Col 5; -; 87.86666666064411; !=; 79.85000000568107
